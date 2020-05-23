@@ -1,0 +1,23 @@
+aOrganization ID
+a3da0u
+Device Type
+nodemcu
+Device ID
+987654321
+Authentication Method
+use-token-auth
+Authentication Token
+987654321
+
+api key
+a-a3da0u-8fpowxochx
+
+authentication token
+
+zTxGf-HkEvQwRlue*)
+
+
+
+7b5347daa35ef0de7b77bda92c22d751
+Kanpur, IN
+api.openweathermap.org/data/2.5/weather?q={city name}&appid={your api key}
